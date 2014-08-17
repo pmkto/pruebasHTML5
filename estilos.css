@@ -1,3 +1,4 @@
 /*formato basico*/
-h1{color:blue}
-p{font-style:italic}
+h1{color:blue;text-align:center}
+p{font-style:justify;width:400px;margin:auto}
+
